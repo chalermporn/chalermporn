@@ -19,4 +19,4 @@ Hi, I'm Bird a senior frontend developer at KTB bank, I am a fan of technology, 
 
 ## Get in touch
 - Twitter: https://twitter.com/chalermporn_po
-- Facebook: https://facebook.com/chalermporn
+- Facebook: https://facebook.com/chalermporn.po
