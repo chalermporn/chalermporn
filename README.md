@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 Hi, I'm Bird a senior frontend developer at KTB bank, I am a fan of technology, photography, and education. I’m also interested in web development
 
 ## Get in touch
-- Twitter: https://twitter.com/arayasoft
+- Twitter: https://twitter.com/chalermporn_po
 - Facebook: https://facebook.com/chalermporn
