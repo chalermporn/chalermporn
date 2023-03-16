@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 # Chalermporn Posoppitakwong #Codemunha
 Hi, I'm Bird a senior frontend developer at KTB bank, I am a fan of technology, photography, and education. I’m also interested in web development
 
-## Get in touch
+## 📊 My GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chalermporn)](https://github.com/chalermporn/github-readme-stats)
+
+## 📫 Get in touch
 - Twitter: https://twitter.com/chalermporn_po
 - Facebook: https://facebook.com/chalermporn.po
