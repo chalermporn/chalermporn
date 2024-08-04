@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 
 
 # Chalermporn Posoppitakwong #Codemunha
-Hi, I'm Bird a senior frontend developer at KTB bank, I am a fan of technology, photography, and education. I’m also interested in web development
+
+👋 Hi there! I’m Bird, a Senior Frontend Developer at KTB Bank 🌟
+
+🔧 Passionate about technology, photography, and education, with a keen interest in web development
+
+📚 Always eager to learn and grow, and open to sharing knowledge and experiences with the community
 
 ## 📊 My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chalermporn&show_icons=true)](https://github.com/chalermporn/github-readme-stats)
